@@ -14,10 +14,7 @@ class Program
        
         DisplayFinal(userName, squaredNumber);
 
-        static void DisplayMessage()
-            {
-                Console.WriteLine("Hello world!");
-            }
+        
         static string UserName()
             {
                 Console.WriteLine("What is your name? ");
